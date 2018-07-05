@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q3DDemo", "Assembly-CSharp.csproj", "{4794E11A-464D-4632-DFE7-4CE8D4651026}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q3DDemo", "Assembly-CSharp-Editor.csproj", "{60644303-7747-F4F9-DF84-11DA96649710}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4794E11A-464D-4632-DFE7-4CE8D4651026}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4794E11A-464D-4632-DFE7-4CE8D4651026}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4794E11A-464D-4632-DFE7-4CE8D4651026}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4794E11A-464D-4632-DFE7-4CE8D4651026}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60644303-7747-F4F9-DF84-11DA96649710}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60644303-7747-F4F9-DF84-11DA96649710}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60644303-7747-F4F9-DF84-11DA96649710}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60644303-7747-F4F9-DF84-11DA96649710}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

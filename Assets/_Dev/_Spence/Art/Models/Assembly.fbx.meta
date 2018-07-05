@@ -1,0 +1,232 @@
+fileFormatVersion: 2
+guid: 950ec2af3d62840a9966ff6e873172f9
+timeCreated: 1509474271
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: part_bolt_00
+    100004: part_bolt_01
+    100006: part_bolt_02
+    100008: part_bolt_03
+    100010: part_bolt_04
+    100012: part_bolt_05
+    100014: part_bolt_06
+    100016: part_clamp_00
+    100018: part_clamp_01
+    100020: part_clamp_02
+    100022: part_connector
+    100024: part_engine_00
+    100026: part_engine_01
+    100028: part_engine_01_MeshPart0
+    100030: part_engine_01_MeshPart1
+    100032: part_engine_02
+    100034: part_engine_02_MeshPart0
+    100036: part_engine_02_MeshPart1
+    100038: part_engine_02_MeshPart2
+    100040: part_engine_02_MeshPart3
+    100042: part_engine_03
+    100044: part_engine_03_MeshPart0
+    100046: part_engine_03_MeshPart1
+    100048: part_engine_03_MeshPart2
+    100050: part_engine_03_MeshPart3
+    100052: part_engine_03_MeshPart4
+    100054: part_extra_00
+    100056: part_flange_00
+    100058: part_hinge_00
+    100060: part_pin_00
+    100062: part_starter_00
+    100064: part_starter_00_MeshPart0
+    100066: part_starter_00_MeshPart1
+    400000: //RootNode
+    400002: part_bolt_00
+    400004: part_bolt_01
+    400006: part_bolt_02
+    400008: part_bolt_03
+    400010: part_bolt_04
+    400012: part_bolt_05
+    400014: part_bolt_06
+    400016: part_clamp_00
+    400018: part_clamp_01
+    400020: part_clamp_02
+    400022: part_connector
+    400024: part_engine_00
+    400026: part_engine_01
+    400028: part_engine_01_MeshPart0
+    400030: part_engine_01_MeshPart1
+    400032: part_engine_02
+    400034: part_engine_02_MeshPart0
+    400036: part_engine_02_MeshPart1
+    400038: part_engine_02_MeshPart2
+    400040: part_engine_02_MeshPart3
+    400042: part_engine_03
+    400044: part_engine_03_MeshPart0
+    400046: part_engine_03_MeshPart1
+    400048: part_engine_03_MeshPart2
+    400050: part_engine_03_MeshPart3
+    400052: part_engine_03_MeshPart4
+    400054: part_extra_00
+    400056: part_flange_00
+    400058: part_hinge_00
+    400060: part_pin_00
+    400062: part_starter_00
+    400064: part_starter_00_MeshPart0
+    400066: part_starter_00_MeshPart1
+    2300000: part_bolt_00
+    2300002: part_bolt_01
+    2300004: part_bolt_02
+    2300006: part_bolt_03
+    2300008: part_bolt_04
+    2300010: part_bolt_05
+    2300012: part_bolt_06
+    2300014: part_clamp_00
+    2300016: part_clamp_01
+    2300018: part_clamp_02
+    2300020: part_connector
+    2300022: part_engine_00
+    2300024: part_engine_01_MeshPart0
+    2300026: part_engine_01_MeshPart1
+    2300028: part_engine_02_MeshPart0
+    2300030: part_engine_02_MeshPart1
+    2300032: part_engine_02_MeshPart2
+    2300034: part_engine_02_MeshPart3
+    2300036: part_engine_03_MeshPart0
+    2300038: part_engine_03_MeshPart1
+    2300040: part_engine_03_MeshPart2
+    2300042: part_engine_03_MeshPart3
+    2300044: part_engine_03_MeshPart4
+    2300046: part_extra_00
+    2300048: part_flange_00
+    2300050: part_hinge_00
+    2300052: part_pin_00
+    2300054: part_starter_00_MeshPart0
+    2300056: part_starter_00_MeshPart1
+    3300000: part_bolt_00
+    3300002: part_bolt_01
+    3300004: part_bolt_02
+    3300006: part_bolt_03
+    3300008: part_bolt_04
+    3300010: part_bolt_05
+    3300012: part_bolt_06
+    3300014: part_clamp_00
+    3300016: part_clamp_01
+    3300018: part_clamp_02
+    3300020: part_connector
+    3300022: part_engine_00
+    3300024: part_engine_01_MeshPart0
+    3300026: part_engine_01_MeshPart1
+    3300028: part_engine_02_MeshPart0
+    3300030: part_engine_02_MeshPart1
+    3300032: part_engine_02_MeshPart2
+    3300034: part_engine_02_MeshPart3
+    3300036: part_engine_03_MeshPart0
+    3300038: part_engine_03_MeshPart1
+    3300040: part_engine_03_MeshPart2
+    3300042: part_engine_03_MeshPart3
+    3300044: part_engine_03_MeshPart4
+    3300046: part_extra_00
+    3300048: part_flange_00
+    3300050: part_hinge_00
+    3300052: part_pin_00
+    3300054: part_starter_00_MeshPart0
+    3300056: part_starter_00_MeshPart1
+    4300000: part_bolt_00
+    4300002: part_bolt_01
+    4300004: part_bolt_02
+    4300006: part_hinge_00
+    4300008: part_pin_00
+    4300010: part_clamp_00
+    4300012: part_bolt_03
+    4300014: part_bolt_04
+    4300016: part_bolt_05
+    4300018: part_bolt_06
+    4300020: part_clamp_01
+    4300022: part_clamp_02
+    4300024: part_flange_00
+    4300026: part_starter_00_MeshPart0
+    4300028: part_starter_00_MeshPart1
+    4300030: part_engine_00
+    4300032: part_extra_00
+    4300034: part_engine_01_MeshPart0
+    4300036: part_engine_01_MeshPart1
+    4300038: part_engine_02_MeshPart0
+    4300040: part_engine_02_MeshPart1
+    4300042: part_engine_02_MeshPart2
+    4300044: part_engine_02_MeshPart3
+    4300046: part_engine_03_MeshPart0
+    4300048: part_engine_03_MeshPart1
+    4300050: part_engine_03_MeshPart2
+    4300052: part_engine_03_MeshPart3
+    4300054: part_engine_03_MeshPart4
+    4300056: part_connector
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 12
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

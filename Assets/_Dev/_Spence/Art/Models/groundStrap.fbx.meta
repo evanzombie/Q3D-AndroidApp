@@ -1,0 +1,215 @@
+fileFormatVersion: 2
+guid: 44ab99866811d4e759eb26a16ae7f5b1
+timeCreated: 1510165709
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: GroundStrap
+    100002: //RootNode
+    100004: joint41
+    100006: joint42
+    100008: joint43
+    100010: joint44
+    100012: joint45
+    100014: joint46
+    100016: joint47
+    100018: joint48
+    100020: joint49
+    100022: joint50
+    100024: joint51
+    100026: joint52
+    100028: joint53
+    100030: joint54
+    100032: joint55
+    100034: joint56
+    100036: joint57
+    100038: joint58
+    100040: joint59
+    100042: joint60
+    100044: joint61
+    100046: joint62
+    100048: joint63
+    100050: joint64
+    100052: joint65
+    100054: joint66
+    100056: joint67
+    100058: joint68
+    100060: joint69
+    100062: joint70
+    100064: joint71
+    100066: joint72
+    100068: joint73
+    100070: joint74
+    100072: joint75
+    100074: joint76
+    100076: joint77
+    100078: joint78
+    100080: joint79
+    100082: joint80
+    100084: joint81
+    100086: joint82
+    100088: joint83
+    100090: joint84
+    400000: GroundStrap
+    400002: //RootNode
+    400004: joint41
+    400006: joint42
+    400008: joint43
+    400010: joint44
+    400012: joint45
+    400014: joint46
+    400016: joint47
+    400018: joint48
+    400020: joint49
+    400022: joint50
+    400024: joint51
+    400026: joint52
+    400028: joint53
+    400030: joint54
+    400032: joint55
+    400034: joint56
+    400036: joint57
+    400038: joint58
+    400040: joint59
+    400042: joint60
+    400044: joint61
+    400046: joint62
+    400048: joint63
+    400050: joint64
+    400052: joint65
+    400054: joint66
+    400056: joint67
+    400058: joint68
+    400060: joint69
+    400062: joint70
+    400064: joint71
+    400066: joint72
+    400068: joint73
+    400070: joint74
+    400072: joint75
+    400074: joint76
+    400076: joint77
+    400078: joint78
+    400080: joint79
+    400082: joint80
+    400084: joint81
+    400086: joint82
+    400088: joint83
+    400090: joint84
+    4300000: GroundStrap
+    7400000: Take 001
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: GroundStrap
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: MAT_BraidedCable
+    second: {fileID: 2100000, guid: 0707be42923c3422bbe7bb0aaae67e4a, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

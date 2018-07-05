@@ -1,0 +1,10 @@
+sceneSetups:
+- path: Assets/_App/Scenes/Init-ARKit.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/_App/Scenes/Main.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/_App/Scenes/App.unity
+  isLoaded: 1
+  isActive: 1
